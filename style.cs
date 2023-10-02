@@ -9,7 +9,8 @@ nav a {
   font-size: 22px;
   text-decoration: none;
 }
+
 nav Li {
   display: inline;
-  margin:
+  margin: 0 0 0 15px;
 }

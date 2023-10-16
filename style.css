@@ -14,6 +14,10 @@ nav Li {
   display: inline;
   margin: 0 0 0 15px;
 }
+
+.caixa {
+  whith: 940px;
+}
 nav {
   position:absolute;
   top:0;

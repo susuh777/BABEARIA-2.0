@@ -14,3 +14,8 @@ nav Li {
   display: inline;
   margin: 0 0 0 15px;
 }
+nav {
+  position:absolute;
+  top:0;
+  right: 0;
+}
